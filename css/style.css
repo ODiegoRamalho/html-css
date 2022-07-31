@@ -11,7 +11,7 @@ header {
     padding: 10px 20px;
 }
 
-h1 {
+.logo{
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
     text-shadow: 5px 5px 0px #000000;
@@ -64,4 +64,6 @@ span {
     padding: 0 20px;
     box-shadow: 5px 5px 0px #000000; /* X(esquerda e direita) -Y(cima e baixo) -"BLOR" esfumaçar*/
 }
+
+
 
