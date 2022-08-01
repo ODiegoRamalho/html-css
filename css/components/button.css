@@ -1,0 +1,17 @@
+.button {
+    display: inline-block; /*para poder definir altura e largura*/
+    background-color: #F25A70;
+    color: #ffff;
+    text-align: center;
+    width: 170px;
+    height: 60px;
+    line-height: 60px; /*altura da linha - centralizar*/
+    padding: 0 20px;
+    box-shadow: 5px 5px 0px #000000; /* X(esquerda e direita) -Y(cima e baixo) -"BLOR" esfumaçar*/
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.button:hover {
+    transform: scale(1.08);
+}

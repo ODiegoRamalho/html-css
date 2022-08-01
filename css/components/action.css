@@ -1,0 +1,20 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    color: #ffff;
+    font-size: 20px;
+    font-family: 'Fira Code', monospace;
+    font-weight: 500px;
+    text-decoration: none;
+    margin-left: 30px;
+    transition: transform 100ms linear; /**/
+}
+
+
+.action ::before { /*pseudo elemento*/
+    content: "";
+    background-color: #e77f67;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
