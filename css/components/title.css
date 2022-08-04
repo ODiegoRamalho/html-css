@@ -4,3 +4,11 @@
     color: #F25A70;
     text-shadow: 4px 4px 0 #000000;
 }
+
+.title.-secund { 
+    color: #fff;
+    text-shadow: none;
+    text-align: center;
+    padding-top: 40px;
+
+}
